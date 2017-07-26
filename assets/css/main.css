@@ -1208,7 +1208,7 @@
 		form input[type=password]:focus,
 		form select:focus,
 		form textarea:focus {
-			background: #fafafa;
+			background: #E78B53;
 			box-shadow: inset 0px 2px 5px 0px rgba(0, 0, 0, 0.05), 0px 1px 0px 0px rgba(255, 255, 255, 0.025), inset 0px 0px 2px 1px #43bff0;
 		}
 
@@ -1645,7 +1645,7 @@
 /* Nav */
 
 	#nav {
-		background-color: #ff7733;
+		background-color: #E78B53;
 		text-align: center;
 		position: fixed;
 		left: 0;
